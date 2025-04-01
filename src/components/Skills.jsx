@@ -1,15 +1,14 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-import htmlLogo from "./images/html.png";
-import cssLogo from "./images/CSS-Logo.png";
-import jsLogo from "./images/js.png";
-import reactLogo from "./images/React.webp";
-import nodelogo from "./images/node.png"
-import tsLogo from "./images/ts.png";
-// import figmaLogo from "./images/figma.png";
-import javaLogo from "./images/java.png";
-import mysqlLogo from "./images/mysql.png";
+import htmlLogo from "./Images/html.png";
+import cssLogo from "./Images/CSS-Logo.png";
+import jsLogo from "./Images/js.png";
+import reactLogo from "./Images/React.webp";
+import nodelogo from "./Images/node.png";
+import tsLogo from "./Images/ts.png";
+import javaLogo from "./Images/java.png";
+import mysqlLogo from "./Images/mysql.png";
 // import awsLogo from "./images/aws.png";
 
 const textVariants = {
