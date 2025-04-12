@@ -28,7 +28,7 @@ const NavBar = () => {
   ];
 
   const openResume = () => {
-    window.open("https://drive.google.com/file/d/1GEmGsT-S_kmPo99TP1x0Q3nCgL8BSzvt/view?usp=drivesdk", "_blank");
+    window.open("https://drive.google.com/file/d/1kXC38AnLGebgNSuk3PJsQRpFtBxkXE8M/view?usp=drivesdk", "_blank");
   };
 
   return (
